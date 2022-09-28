@@ -1,4 +1,4 @@
-public class BinarySearch {
+public class Main {
     public static void main(String[] args) {
         int[] sortedArray = {16, 52, 44, 12, 1, 67, 32, 11, 5};
         int key = 89;
